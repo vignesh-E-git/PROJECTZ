@@ -17,6 +17,13 @@ python app.py
 make sure you run this command after going to current folder by command 'cd'.
 3. visit the follow link
 
+### ABOUT PROJECT FILES
+1. **app.py** : main file for running the *backend* server.
+2. **main.py** : python code for accessing gemini model.
+3. **index.html** : frontend (html) .
+4. **script.js** : frontend (javascript).
+5. **style.css** : frontend (css).
+
 ### UPCOMING FEATURE
 I want to extend this project by adding features like tracking that step and remember or stimulating us to follow the path of succcess.
 
